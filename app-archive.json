@@ -1,0 +1,28 @@
+{
+    "appName": "Movie Tracker",
+    "description": "This is my app description",
+    "items": [
+        {
+            "version": "1.0.1+2",
+            "shortVersion": 9,
+            "changes": [
+                {
+                    "type": "chore",
+                    "message": "Fix bug #1"
+                },
+                {
+                    "type": "feat",
+                    "message": "Add new feature #1"
+                },
+                {
+                    "message": "Add new feature #2"
+                }
+            ],
+            "date": "2025-01-10",
+            "mandatory": true,
+            "url": "https://github.com/ayillya/release/releases/download/v1.0.1/1.0.1+2-windows.zip",
+            "platform": "windows"
+        }
+        
+    ]
+}
