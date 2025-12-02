@@ -20,7 +20,7 @@
             ],
             "date": "2025-11-28",
             "mandatory": true,
-            "url": "https://raw.githubusercontent.com/ayillya/release/refs/heads/main/1.0.2%2B4-windows",
+            "url": "https://github.com/ayillya/release/tree/main/1.0.2%2B4-windows",
             "platform": "windows"
         },
         
