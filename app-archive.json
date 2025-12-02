@@ -20,7 +20,7 @@
             ],
             "date": "2025-11-28",
             "mandatory": true,
-            "url": "https://release-git-main-ayillya-anilkumars-projects.vercel.app/1.0.2+4-windows",
+            "url": "https://raw.githubusercontent.com/ayillya/release/refs/heads/main/1.0.2%2B4-windows",
             "platform": "windows"
         },
         
